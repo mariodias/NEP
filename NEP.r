@@ -51,8 +51,3 @@ calculate_nep <- function(seats = c(), magnitude) {
   return(nep)
   
 }
-
-calculate_nep(c(2, 1, 1, 1, 1, 1, 2), 9)
-calculate_nep(c(3, 4, 2), 9)
-calculate_nep(c(2204, 1769), 3973)
-calculate_nep(c(2230, 1474), 3704)
