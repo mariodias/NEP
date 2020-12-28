@@ -12,7 +12,7 @@
 #' number of valid votes rather than the ratio between available seats and the number 
 #' of seats obtained.
 #' 
-#' @return A number.
+#' @return a number.
 #'
 #' @author Mário Dias
 #'
